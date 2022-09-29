@@ -35,7 +35,7 @@ const ListadoClientes = ({clientes, setCliente, eliminarCliente}) => {
         
       <>
         
-        <h2 className='font-black text-3xl text-center'>No hay Clientes</h2>
+        <h2 className='font-black text-3xl text-center mt-10'>No hay Clientes</h2>
         <p className='text-xl mt-5 mb-10 text-center'>
           Agrega tus <span className='text-red-600 font-bold'>Clientes</span>
         </p>
